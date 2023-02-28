@@ -29,7 +29,7 @@ Hi, I’m *Beth*, a University Student at Singapore Management University studyi
   * Reading Webtoons (Lookism)
 
 ## How can I talk to you more + can we collab? UwU
-You can message me on ![Telegram](https://t.me/dobesquiddy), hit up my Discord (> squiddy <#0771), or send me an ![email](huitingloke@gmail.com)! I am willing to collaborate on projects that allow me to work with law (contracts, terms etc) and computing (blockchain, frontend) because this course has become my entire personality. I'm also interested in NFT development and have made ![my own](https://opensea.io/collection/sadblobs).
+You can message me on [Telegram](https://t.me/dobesquiddy), hit up my Discord (> squiddy <#0771), or send me an [email](huitingloke@gmail.com)! I am willing to collaborate on projects that allow me to work with law (contracts, terms etc) and computing (blockchain, frontend) because this course has become my entire personality. I'm also interested in NFT development and have made [my own](https://opensea.io/collection/sadblobs).
 
 ## Are you happy?
 No.
