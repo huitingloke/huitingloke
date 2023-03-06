@@ -2,13 +2,13 @@
 ![A very accurate representation of my mental health and wellbeing](https://external-preview.redd.it/H-vxRPlTiQ5ZhplXvUARgkbzc01EwumZCHsj0WPv1to.jpg?width=640&crop=smart&auto=webp&s=a231a882015041aeceac9f47057ac83cdd2ce692 "Literally me")
 
 ## Clown introduction
-Hi, I’m *Beth*, a University Student at Singapore Management University studying BSc(Computing and Law)! My daily activities involve waking up and going to sleep. Given my current identity crisis-crisis that spawns in every few years, I have to say that I am doing quite well for myself and want to keep it up.
+Hi, I’m Beth, a University Student at Singapore Management University studying BSc(Computing and Law)! My daily activities involve waking up and going to sleep. Given my current identity crisis that spawns in every few years, I have to say that I am doing quite well for myself and want to keep it up. I'm a beginner programmer and would be happy to learn from anyone patient enough to sit down with me for a few hours and tell me that you need to put a "." in between "console" and "log". Many thanks for dropping by!
 
 ## My shining personality
 * **Code that I can write**: Python, Javascript, HTML, CSS
 * **Code that I like to think I can write**: PHP, MySQL, Solidity
 * **Topics of interest**: Web development, Web3 development (Ethereum), UI UX design, Databases
-* **To learn**: Vue.js, React, C, enjoying reading documentation without wanting to cry for 10 hours straight
+* **To learn**: React, Tailwind (I know it's not technically a language but I still need it), enjoying reading documentation without wanting to cry for 10 hours straight
 
 ## I promise I have a life outside of GitHub
 * **Sports**: 
