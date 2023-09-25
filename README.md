@@ -12,11 +12,11 @@ Hi, I’m Beth, a University Student at Singapore Management University studying
 
 ## I promise I have a life outside of GitHub
 * **Sports**: 
-  * Muay Thai
+  * Muay Thai (not anymore I guess)
   * Krav Maga (but I am very bad at it)
-  * Rock Climbing (see: Krav Maga)
+  * Rock Climbing (I can do a V3 now guys)
   * Cycling
-  * Jogging
+  * Roller skating
 * **Arts**:
   * Singing
   * Musical instruments (piano, guitar, drums, ukulele, cajon, otamatone)
@@ -26,10 +26,10 @@ Hi, I’m Beth, a University Student at Singapore Management University studying
 * **Other**: 
   * First person shooters (Valorant, Overwatch)
   * Rhythm games (MaiMai, Chunithm, Cytus, Osu!, Project Sekai, Bang! Dream, Dancerush Stardom)
-  * Reading Webtoons (Lookism)
+  * Reading Webtoons (Pie Game :O)
 
 ## How can I talk to you more + can we collab? UwU
-You can message me on [Telegram](https://t.me/dobesquiddy), hit up my Discord (> squiddy <#0771), or send me an [email](huitingloke@gmail.com)! I am willing to collaborate on projects that allow me to work with law (contracts, terms etc) and computing (blockchain, frontend) because this course has become my entire personality. I'm also interested in NFT development and have made [my own](https://opensea.io/collection/sadblobs).
+You can message me on [Telegram](https://t.me/dobesquiddy), hit up my Discord (dobesquiddy), or send me an [email](huitingloke@gmail.com)! I am willing to collaborate on projects that allow me to work with law (contracts, terms etc) and computing (blockchain, frontend) because this course has become my entire personality. I'm also interested in NFT development and have made [my own](https://opensea.io/collection/sadblobs).
 
 ## Are you happy?
 No.
